@@ -9,13 +9,11 @@ const Starter = () => {
       <h1 className="text-7xl font-semibold text-gray-800  my-5">URDU DOSTI</h1>
       <h3 className="text-xl font-medium my-5 text-gray-600 ">
         A project for Urdu lovers{" "}
-        <span className="inline-block text-3xl animate-bounce ">💖</span>
+        <span className="inline-block text-2xl animate-bounce ">💖</span>
       </h3>
       <h3 className="text-lg font-bold text-red-800 my-10">
-        <span className="animate-pulse">COMING SOON ...</span>😊😇😍
+        <span className="text-3xl animate-pulse">COMING SOON ...</span>😊😇😍
       </h3>
-      <h2 className="text-2xl font-semibold animate-bounce">Hi Bestie😊, You are the first person to see this website.</h2>
-      <h2 className="text-2xl font-semibold animate-pulse">Ustadji 😍</h2>
       <h3 className="text-xl text-gray-600 font-medium my-5">Follow Us:</h3>
       <div className="flex items-center justify-center gap-2">
         <IgLogo />

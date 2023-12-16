@@ -16,7 +16,6 @@ const Starter = () => {
         <h4 className="text-xl font-medium italic text-red-950"><a href="https://www.instagram.com/urdudosti/" target="_blank" rel="noreferrer">@urdudosti</a></h4>
         
       </div>
-      <h1>Tracking change</h1>
     </div>
   );
 };

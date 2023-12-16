@@ -14,6 +14,7 @@ const Starter = () => {
       <h3 className="text-lg font-bold text-red-800 my-10">
         <span className="animate-pulse">COMING SOON ...</span>😊😇😍
       </h3>
+      <h2 className="text-2xl font-semibold animate-bounce">Hi Bestie😊, You are the first person to see this website.</h2>
       <h3 className="text-xl text-gray-600 font-medium my-5">Follow Us:</h3>
       <div className="flex items-center justify-center gap-2">
         <IgLogo />

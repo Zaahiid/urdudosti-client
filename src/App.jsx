@@ -1,13 +1,12 @@
-import './App.css'
-import Starter from './components/Starter'
+import "./App.css";
+import Starter from "./components/Starter";
 
 function App() {
-
   return (
     <>
-     <Starter/>
+      <Starter />
     </>
-  )
+  );
 }
 
-export default App
+export default App;

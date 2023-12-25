@@ -10,9 +10,7 @@ const Starter = () => {
       <h3 className="text-xl font-medium my-5 text-gray-600 ">
         A project for Urdu lovers{" "}
         <span className="inline-block text-2xl animate-bounce ">💖</span>
-      </h3>
-      <h2 className="text-xl font-bold text-red-800 my-10">Assalamu alaikum, Mohtarma Aleena Sahiba 🌹</h2>
-      
+      </h3>      
       <h3 className="text-lg font-bold text-red-800 my-10">
         <span className="text-3xl animate-pulse">COMING SOON ...</span>😊😇😍
       </h3>

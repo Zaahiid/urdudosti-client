@@ -27,9 +27,9 @@ const SampleSher = () => {
       {isUrdu ? (
         <div className="w-2/3 h-40 border text-center bg-white shadow-md">
           
-          <h2 className="mt-8 text-sm md:text-xl font-medium font-serif">{data[0].sher.urdu[0]}</h2>
-          <h2 className="my-3 text-sm md:text-xl font-medium font-serif">{data[0].sher.urdu[1]}</h2>
-          <h2 className="text-sm md:text-xl font-medium font-serif">{data[0].poet_name.urdu_name}</h2>{" "}
+          <h2 className="mt-8 text-base md:text-xl font-medium font-serif">{data[0].sher.urdu[0]}</h2>
+          <h2 className="my-3 text-base md:text-xl font-medium font-serif">{data[0].sher.urdu[1]}</h2>
+          <h2 className="text-base md:text-xl font-medium font-serif">{data[0].poet_name.urdu_name}</h2>{" "}
         </div>
       ) : (
         <div className="w-2/3 h-40 border text-center bg-white shadow-md">
